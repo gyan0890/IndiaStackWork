@@ -1,0 +1,7 @@
+.NET-eKYC 1.0.0, 29/07/2016
+------------------------
+- Features:
+    * Fetch Aadhaar OTP
+    * Authenticate KYC from UIDAI
+    * Fetch KYC data from UIDAI
+    * Demographic Authentication from UIDAI

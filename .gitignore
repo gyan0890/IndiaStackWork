@@ -69,3 +69,4 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 *.suo
 *.csv
 web.config
+!RemoteServices/Bin/ClassLibrary1.dll
